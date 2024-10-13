@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frozenenenen
 - 👀 I’m interested in 3D-Modelling and Games/Game Engines
-- 🌱 I’m currently learning  C#, Unity, ROS, Aurelion
+- 🌱 I’m currently learning  C#, Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
